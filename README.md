@@ -1,4 +1,4 @@
-# Open Data Bayern API Exploration Notebooks
+# open bydata Bayern API Exploration Notebooks
 
 ## Introduction
 
